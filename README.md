@@ -14,5 +14,7 @@ How a gender perspective could reduce the gap of women in Robotics. This is a mu
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurepa82&theme=tokyonight)
 
 [Navigating the future of Automation](https://lnkd.in/d3cJXWEe) 
+
+Taller de Potencia tu Voz y Liderazgo para la comunidad Technolatinas de México
 [Potencia tu Voz y Liderazgo](https://youtu.be/VATnhDAnFjA) 
 
