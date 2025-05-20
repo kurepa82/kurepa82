@@ -1,4 +1,4 @@
-### 👋 Hi, I'm [Tu Nombre] — Roboticist, Educator & Advocate for Diversity in Tech
+### 👋 Hi, I'm [Belén Torres] — Roboticist, Educator & Advocate for Diversity in Tech
 
 I'm passionate about creating inclusive spaces in robotics and technology through education, community, and real-world projects. Below you'll find some of my recent talks, workshops, and contributions in the field of automation and robotics.
 
