@@ -18,6 +18,8 @@ How a gender perspective could reduce the gap of women in Robotics. This is a mu
 Taller de Potencia tu Voz y Liderazgo para la comunidad Technolatinas de México
 [Potencia tu Voz y Liderazgo](https://youtu.be/VATnhDAnFjA) 
 
+[Speaker at ROS Meetup Buenos Aires](https://www.youtube.com/watch?v=coWpwK2OWGY) 
+
 2024 VEX Robotics Educators Conference
 [Implementing VEX: A Discussion Taking Classroom Theory to Real-World Practice](https://pd.vex.com/videos/general/implementing-vex-a-discussion-taking-classroom-theory-to-real-world-practice)
 
