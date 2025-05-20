@@ -1,25 +1,47 @@
-![avatar](https://github.com/kurepa82/kurepa82/blob/main/me.jpg)
+### 👋 Hi, I'm [Tu Nombre] — Roboticist, Educator & Advocate for Diversity in Tech
 
+I'm passionate about creating inclusive spaces in robotics and technology through education, community, and real-world projects. Below you'll find some of my recent talks, workshops, and contributions in the field of automation and robotics.
 
-# ROSCON2022 (Kyoto,Japan)
+---
 
-[How to SLAM the gender gaps of women in Robotics?](https://vimeo.com/showcase/9954564/video/767164735)
+## 🎤 Talks & Conferences
 
-How a gender perspective could reduce the gap of women in Robotics. This is a multifaceted approach to a complex problem, exploring the role of stereotypes in engineering fields. Despite a high female representation in different fields/areas, this does not necessarily mean that there is a special focus on gender issues. This is why it is so important to amplify our collective voices and calls to advocate for greater diversity, equity, and inclusion in the fields of robotics. There will be many unresolved challenges and there will be unresolved needs if everything continues in the same way.
+- **ROSCON 2022 (Kyoto, Japan)**  
+  [How to SLAM the gender gaps of women in Robotics?](https://vimeo.com/showcase/9954564/video/767164735)  
+  A multifaceted approach to reduce the gender gap in robotics through awareness, advocacy, and inclusion.
 
-[¿Cómo empezar a ser roboticista?](https://vimeo.com/showcase/9954564/video/767164735) at FEMit 2022
+- **FEMit 2022**  
+  [¿Cómo empezar a ser roboticista?](https://vimeo.com/showcase/9954564/video/767164735)
 
-[Interview with Telam](https://www.telam.com.ar/notas/202301/615575-robotica-robots-programacion-conferencia-japon.html)
+- **Interview with Telam**  
+  [On Robotics & Programming](https://www.telam.com.ar/notas/202301/615575-robotica-robots-programacion-conferencia-japon.html)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurepa82&theme=tokyonight)
+- **ROS Meetup Buenos Aires**  
+  [Watch the Talk](https://www.youtube.com/watch?v=coWpwK2OWGY)
 
-[Navigating the future of Automation](https://lnkd.in/d3cJXWEe) 
+- **VEX Robotics Educators Conference 2024**  
+  [Implementing VEX in the Classroom](https://pd.vex.com/videos/general/implementing-vex-a-discussion-taking-classroom-theory-to-real-world-practice)
 
-Taller de Potencia tu Voz y Liderazgo para la comunidad Technolatinas de México
-[Potencia tu Voz y Liderazgo](https://youtu.be/VATnhDAnFjA) 
+---
 
-[Speaker at ROS Meetup Buenos Aires](https://www.youtube.com/watch?v=coWpwK2OWGY) 
+## 🎓 Workshops & Community Engagement
 
-2024 VEX Robotics Educators Conference
-[Implementing VEX: A Discussion Taking Classroom Theory to Real-World Practice](https://pd.vex.com/videos/general/implementing-vex-a-discussion-taking-classroom-theory-to-real-world-practice)
+- **Technolatinas (Mexico)**  
+  [Potencia tu Voz y Liderazgo](https://youtu.be/VATnhDAnFjA)
 
+- **Navigating the Future of Automation**  
+  [Read More](https://lnkd.in/d3cJXWEe)
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurepa82&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kurepa82&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect
+
+If you’re working on inclusive robotics, educational technology, or Web3 learning communities, I’d love to hear from you.  
+Feel free to reach out or collaborate on meaningful projects!
