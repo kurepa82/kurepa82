@@ -18,7 +18,7 @@ I'm on a mission to make robotics and technology more inclusive through **educat
 - **Interview with Telam**  
   🔗 [On Robotics & Programming](https://www.telam.com.ar/notas/202301/615575-robotica-robots-programacion-conferencia-japon.html)
 
-  - **La Potencia de lo Colectivo**  
+- **La Potencia de lo Colectivo**  
   🔗 [Women in Games Argentina](https://www.youtube.com/watch?v=7fX4yzY-9J0&t=155s)
 
 - **ROS Meetup Buenos Aires**  
