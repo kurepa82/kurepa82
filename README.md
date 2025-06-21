@@ -6,6 +6,9 @@ I'm on a mission to make robotics and technology more inclusive through **educat
 
 ## 🎤 Featured Talks & Conferences
 
+- **Oradora no se nace, se hace**  
+  🔗 [GDCFPDay Argentina](https://www.youtube.com/watch?v=bJZ6Ku3rHps)
+  
 - **ROSCON 2022 (Kyoto, Japan)**  
   🔗 [How to SLAM the gender gaps of women in Robotics?](https://vimeo.com/showcase/9954564/video/767164735)
 
@@ -14,6 +17,9 @@ I'm on a mission to make robotics and technology more inclusive through **educat
 
 - **Interview with Telam**  
   🔗 [On Robotics & Programming](https://www.telam.com.ar/notas/202301/615575-robotica-robots-programacion-conferencia-japon.html)
+
+  - **La Potencia de lo Colectivo**  
+  🔗 [Women in Games Argentina](https://www.youtube.com/watch?v=7fX4yzY-9J0&t=155s)
 
 - **ROS Meetup Buenos Aires**  
   🔗 [Watch the Talk](https://www.youtube.com/watch?v=coWpwK2OWGY)
